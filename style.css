@@ -1,24 +1,24 @@
 /* style.css */
 body {
   font-family: Overpass;
-  color: #88A051;
+  color: #82C934;
   font-size: 18px;
 }
 
 h1, h2, h3 {
-  color:#88A051;
+  color:#939F2A;
   font-family: Chivo;
 }
 
 p {
-  color:#88A051;
+  color:#939F2A;
   font-weight: bold;
   text-decoration: none;
   transition: .3s;
 }
 
 .banner {
-	background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('images/beach.jpg');
+	background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('foret.jfif');
 	background-size: cover;
 	background-position: center;
 	padding: 150px 0;
@@ -26,19 +26,19 @@ p {
 }
 
 .banner h1 {
-	color: #E26F26;
+	color: #939F2A;
 	font-size: 45px;
 	margin:0;
 }
 
 .banner p{
-	color: #88A051;
+	color: #82C934; 
 	font-size: 24px;
 }
 
 .button-orange {
-	background-color:#E26F26;
-	color: white;
+	background-color:#939F2A;
+	color: #FFFFFF;
 	padding: 20px 40px;
 	border-radius: 4px
 	display: inline-block
@@ -47,8 +47,8 @@ p {
 }
 
 .button-orange:hover {
-	background-color: #E26F26;
-  color: white;
+	background-color: #939F2A;
+  color: #FFFFFF;
 }
 
 .card-white {
